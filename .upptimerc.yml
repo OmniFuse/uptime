@@ -10,7 +10,8 @@ sites:
 
 status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime
+  #baseUrl: /uptime
+  cname: status.chatall.ru # Custom domain CNAME
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ChatAll Status
   introTitle: "**ChatAll Status** - System uptime monitoring"
