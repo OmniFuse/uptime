@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.chatall.ru.ico",
     "slug": "chat-all-api",
     "status": "down",
-    "uptime": "98.95%",
-    "uptimeDay": "77.54%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.95%",
+    "uptime": "98.60%",
+    "uptimeDay": "69.83%",
+    "uptimeWeek": "95.69%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
     "time": 943,
     "timeDay": 984,
     "timeWeek": 946,
     "timeMonth": 943,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-05-26": 323
+      "2025-05-27": 101,
+      "2025-05-26": 333
     }
   },
   {
