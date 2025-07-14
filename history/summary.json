@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.chatall.ru.ico",
     "slug": "chat-all-api",
     "status": "up",
-    "uptime": "96.23%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.27%",
     "time": 1080,
     "timeDay": 708,
-    "timeWeek": 856,
+    "timeWeek": 815,
     "timeMonth": 704,
     "timeYear": 1080,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "url": "https://chatall.ru",
     "icon": "https://icons.duckduckgo.com/ip3/chatall.ru.ico",
     "slug": "chat-all",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -43,14 +43,16 @@
     "timeWeek": 731,
     "timeMonth": 383,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 0
+    }
   },
   {
     "name": "ChatAll App",
     "url": "https://app.chatall.ru",
     "icon": "https://icons.duckduckgo.com/ip3/app.chatall.ru.ico",
     "slug": "chat-all-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -61,6 +63,8 @@
     "timeWeek": 754,
     "timeMonth": 738,
     "timeYear": 738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 0
+    }
   }
 ]
