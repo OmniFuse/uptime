@@ -1,7 +1,7 @@
 url: https://api.chatall.ru/api/v1/landing-page
-status: up
-code: 200
-responseTime: 660
-lastUpdated: 2026-05-23T00:01:52.761Z
+status: down
+code: 522
+responseTime: 19392
+lastUpdated: 2026-05-23T11:23:50.080Z
 startTime: 2025-05-05T13:39:14.531Z
 generator: Upptime <https://github.com/upptime/upptime>
